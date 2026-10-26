@@ -51,7 +51,7 @@ Priority: optional
 Architecture: {arch}
 Installed-Size: {(len(binary) + len(readme) + len(lic)) // 1024 + 1}
 Recommends: nmap
-Maintainer: Miguel Goreiro <mgoreiro@gmail.com>
+Maintainer: Miguel González Oreiro <mgoreiro@gmail.com>
 Homepage: https://github.com/mgoreiro/sentinel-audit
 Description: TUI para auditar la superficie expuesta de un servidor propio
  Escanea puertos, TLS, cabeceras HTTP, rutas sensibles y paneles de un
